@@ -21,7 +21,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/an.xo.428165)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)
-
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@israk309?_t=ZS-8xbZnwDaDyc&_r=1)
 <!-- Thay link mạng xã hội vào dấu () nếu bạn muốn public -->
 
 ---
